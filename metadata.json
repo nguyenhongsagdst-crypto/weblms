@@ -1,0 +1,6 @@
+{
+  "name": "EduCore LMS - Quản lí Học tập",
+  "description": "Nền tảng Quản lí Học tập thông minh dành cho Giáo viên (/admin) và Học sinh (/app) với dataProvider trừu tượng hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
